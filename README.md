@@ -1,6 +1,6 @@
 # clima
 
-A new Flutter project.
+Weather project.
 
 ## Getting Started
 
