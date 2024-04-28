@@ -1,3 +1,3 @@
 # Clima
 
-Weather project.
+Climatic App for detect Weather details
